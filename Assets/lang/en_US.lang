@@ -1,0 +1,22 @@
+# Items
+item.oilmod:itemDustCoal.name=Coal Dust
+item.oilmod:itemFilter.name=Filter
+item.oilmod:itemIngotSteel.name=Steel Ingot
+item.oilmod:itemPlateSteel.name=Steel Plate
+item.oilmod:itemAssembler.name=Industrial Assembler
+item.oilmod:itemSteelStrand.name=Steel Strand
+item.oilmod:itemSteelMesh.name=Steel Mesh
+item.oilmod:itemValve.name=Valve
+
+# Creative Tabs
+itemGroup.oilmod=Oil Mod
+
+# Blocks
+tile.oilmod:blockRefineryFrame.name=Refinery Frame
+tile.oilmod:blockRefineryGauge.name=Refinery Gauge
+tile.oilmod:blockRefineryValve.name=Refinery Valve
+tile.oilmod:blockRefineryFilter.name=Refinery Filter
+tile.oilmod:blockBoilerFrame.name=Boiler Frame
+tile.oilmod:blockBoilerValve.name=Boiler Valve
+tile.oilmod:blockBoilerHeater.name=Boiler Heater
+tile.oilmod:blockPressurePipe.name=High Pressure Pipe

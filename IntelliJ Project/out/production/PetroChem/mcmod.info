@@ -1,0 +1,17 @@
+[
+{
+  "modid": "petrochem",
+  "name": "PetroChem",
+  "version": "v1.0",
+  "mcversion": "1.7.10",
+  "description": "More uses for all that oil!",
+  "credits": "Created by Peruibeloko, HUGE thanks to SpaceToad for the Buildcraft API",
+  "logoFile": "",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [ "Peruibeloko"],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": []
+}
+]

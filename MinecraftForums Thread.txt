@@ -1,0 +1,85 @@
+You already know the oil from Buildcraft right? And you might think "Man, what am i going to do with all this oil except refining it into Fuel?!" Well good ol' chap, i have the WIP solution :)
+
+REFINERYCRAFT: For all your oil-ish needs.
+_____________________________________________________________________________________
+
+THE IDEA:
+
+
+
+the idea of Refinerycraft is to make oil refinery more Challenging. But how? Well, in real life the petroleum is refined in HUGE fractionating towers (just like the small ones in Chemistry!) that refine it in 6 basic components:
+
+Solid residues
+
+Lubricating oil
+
+
+Diesel oil
+
+Kerosene
+
+Gasoline
+
+and LPG (liquefied petroleum gas)
+
+In this mod, you can do the same thing.
+
+
+
+THE CURRENT PROGRESS:
+
+
+
+@Mod.class - OK!
+mcmod.info - OK!
+Refinerycraft.class - OK!
+Textures: 100% (In the moment. May add more stuff (and code in all of it) later.)
+
+TODO:
+
+A LOT OF STUFF.
+
+
+
+
+PICTURES (textures only):
+
+
+
+Boiler heater:
+Boiler Walls:
+
+Refinery Walls:
+Gauge:
+
+Oilducts, Yay!
+
+Sum items:
+
+
+
+and the Industrial Disassembler:
+
+
+
+Main Sheet:
+
+
+
+
+
+DOWNLOADS:
+
+
+
+Its a textured concept. Wait for it...
+
+
+
+Refinerycraft and Peruibeloko are treadmarks of Peruibeloko
+
+a better topic is coming :)
+
+GO CHECK THE LIVESTREAM RIGHT NOW ON THE DEVELOPMENT OF THIS MOD! twitch.tv/peruibeloko
+
+PERUIBELOKO 2013

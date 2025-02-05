@@ -1,0 +1,19 @@
+# Items
+item.petrochem:dustCoal.name=Coal Dust
+item.petrochem:filter.name=Filter
+item.petrochem:ingotSteel.name=Steel Ingot
+item.petrochem:plateSteel.name=Steel Plate
+item.petrochem:assembler.name=Industrial Assembler
+
+# Creative Tabs
+itemGroup.petrochem=PetroChem
+
+# Blocks
+tile.petrochem:refineryFrame.name=Refinery Frame
+tile.petrochem:refineryGauge.name=Refinery Gauge
+tile.petrochem:refineryValve.name=Refinery Valve
+tile.petrochem:refineryFilter.name=Refinery Filter
+tile.petrochem:boilerFrame.name=Boiler Frame
+tile.petrochem:boilerValve.name=Boiler Valve
+tile.petrochem:boilerHeater.name=Boiler Heater
+tile.petrochem:pressurePipe.name=High Pressure Pipe
